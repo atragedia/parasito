@@ -65,8 +65,8 @@
             evolutivas: "Tripomastigota / Amastigota / Epimastigota", 
             local: "Células (coração, músculo liso)", 
             ciclo: "Heteroxenico",
-            morfologia: "Tripomastigota: formato de 'C' ou 'S', núcleo central, cinetoplasto posterior, membrana ondulante. </br>Amastigota: esférica, intracelular. Epimastigota: cinetoplasto anterior ao núcleo, encontrada no vetor.",
-            identificacao: "Fase aguda: exame direto do sangue (gota espessa, esfregaço). Fase crônica: sorologia (ELISA, HAI, IFI). Xenodiagnóstico ou PCR em casos especiais."
+            morfologia: "Tripomastigota: formato de 'C' ou 'S', núcleo central, cinetoplasto posterior, membrana ondulante. </br>Amastigota: esférica, intracelular. </br>Epimastigota: cinetoplasto anterior ao núcleo, encontrada no vetor.",
+            identificacao: "Fase aguda: exame direto do sangue (gota espessa, esfregaço). </br>Fase crônica: sorologia (ELISA, HAI, IFI). Xenodiagnóstico ou PCR em casos especiais."
         },
         { 
             agente: "Plasmodium sp.", 
@@ -76,7 +76,7 @@
             evolutivas: "Esporozoíto / Merozoíto / Trofozoíto / Esquizonte / Gametócito", 
             local: "Fígado e hemácias", 
             ciclo: "Heteroxenico",
-            morfologia: "Trofozoíto jovem: anel com citoplasma delgado e núcleo puntiforme. Trofozoíto maduro: citoplasma irregular, pigmento malárico. </br>Esquizonte: múltiplos núcleos (merozoítos). Gametócitos: formas arredondadas ou em foice (P. falciparum).",
+            morfologia: "Trofozoíto jovem: anel com citoplasma delgado e núcleo puntiforme. </br>Trofozoíto maduro: citoplasma irregular, pigmento malárico. </br>Esquizonte: múltiplos núcleos (merozoítos). </br>Gametócitos: formas arredondadas ou em foice (P. falciparum).",
             identificacao: "Gota espessa (padrão ouro) e esfregaço sanguíneo corados por Giemsa ou Walker. Testes rápidos (detecção de antígenos HRP2, pLDH). PCR para diferenciação de espécies."
         },
         { 
@@ -87,7 +87,7 @@
             evolutivas: "Oocisto / Esporozoíto / Taquizoíto / Bradizoíto", 
             local: "Tecidos (SNC, músculo, olho)", 
             ciclo: "Heteroxenico",
-            morfologia: "Taquizoíto: formato de meia-lua, núcleo central, multiplicação rápida. Bradizoíto: semelhante, porém de multiplicação lenta dentro de cistos teciduais. </br>Oocisto: esférico, contém esporozoítos após esporulação.",
+            morfologia: "Taquizoíto: formato de meia-lua, núcleo central, multiplicação rápida. </br>Bradizoíto: semelhante, porém de multiplicação lenta dentro de cistos teciduais. </br>Oocisto: esférico, contém esporozoítos após esporulação.",
             identificacao: "Sorologia (IgG e IgM) por ELISA, IFI. Pesquisa de taquizoítos em líquor ou tecidos (imunohistoquímica). PCR em líquido amniótico para diagnóstico congênito."
         },
         { 
