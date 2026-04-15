@@ -54,7 +54,7 @@
             evolutivas: "Promastigota / Amastigota", 
             local: "Macrófagos (pele ou vísceras)", 
             ciclo: "Heteroxenico",
-            morfologia: "Promastigota: corpo alongado, flagelo livre, núcleo central, cinetoplasto anterior. Amastigota: forma arredondada, sem flagelo externo, núcleo e cinetoplasto visíveis em microscopia.",
+            morfologia: "Promastigota: corpo alongado, flagelo livre, núcleo central, cinetoplasto anterior. </br>Amastigota: forma arredondada, sem flagelo externo, núcleo e cinetoplasto visíveis em microscopia.",
             identificacao: "Pesquisa direta de amastigotas em esfregaços de lesão ou aspirado de medula óssea; cultura (promastigotas); PCR; testes sorológicos (IFI, ELISA)."
         },
         { 
@@ -65,7 +65,7 @@
             evolutivas: "Tripomastigota / Amastigota / Epimastigota", 
             local: "Células (coração, músculo liso)", 
             ciclo: "Heteroxenico",
-            morfologia: "Tripomastigota: formato de 'C' ou 'S', núcleo central, cinetoplasto posterior, membrana ondulante. Amastigota: esférica, intracelular. Epimastigota: cinetoplasto anterior ao núcleo, encontrada no vetor.",
+            morfologia: "Tripomastigota: formato de 'C' ou 'S', núcleo central, cinetoplasto posterior, membrana ondulante. </br>Amastigota: esférica, intracelular. Epimastigota: cinetoplasto anterior ao núcleo, encontrada no vetor.",
             identificacao: "Fase aguda: exame direto do sangue (gota espessa, esfregaço). Fase crônica: sorologia (ELISA, HAI, IFI). Xenodiagnóstico ou PCR em casos especiais."
         },
         { 
@@ -76,7 +76,7 @@
             evolutivas: "Esporozoíto / Merozoíto / Trofozoíto / Esquizonte / Gametócito", 
             local: "Fígado e hemácias", 
             ciclo: "Heteroxenico",
-            morfologia: "Trofozoíto jovem: anel com citoplasma delgado e núcleo puntiforme. Trofozoíto maduro: citoplasma irregular, pigmento malárico. Esquizonte: múltiplos núcleos (merozoítos). Gametócitos: formas arredondadas ou em foice (P. falciparum).",
+            morfologia: "Trofozoíto jovem: anel com citoplasma delgado e núcleo puntiforme. Trofozoíto maduro: citoplasma irregular, pigmento malárico. </br>Esquizonte: múltiplos núcleos (merozoítos). Gametócitos: formas arredondadas ou em foice (P. falciparum).",
             identificacao: "Gota espessa (padrão ouro) e esfregaço sanguíneo corados por Giemsa ou Walker. Testes rápidos (detecção de antígenos HRP2, pLDH). PCR para diferenciação de espécies."
         },
         { 
@@ -87,7 +87,7 @@
             evolutivas: "Oocisto / Esporozoíto / Taquizoíto / Bradizoíto", 
             local: "Tecidos (SNC, músculo, olho)", 
             ciclo: "Heteroxenico",
-            morfologia: "Taquizoíto: formato de meia-lua, núcleo central, multiplicação rápida. Bradizoíto: semelhante, porém de multiplicação lenta dentro de cistos teciduais. Oocisto: esférico, contém esporozoítos após esporulação.",
+            morfologia: "Taquizoíto: formato de meia-lua, núcleo central, multiplicação rápida. Bradizoíto: semelhante, porém de multiplicação lenta dentro de cistos teciduais. </br>Oocisto: esférico, contém esporozoítos após esporulação.",
             identificacao: "Sorologia (IgG e IgM) por ELISA, IFI. Pesquisa de taquizoítos em líquor ou tecidos (imunohistoquímica). PCR em líquido amniótico para diagnóstico congênito."
         },
         { 
@@ -98,7 +98,7 @@
             evolutivas: "Cisto / Trofozoíto", 
             local: "Intestino delgado", 
             ciclo: "Monoxênico",
-            morfologia: "Trofozoíto: formato de pera, simetria bilateral, dois núcleos, quatro pares de flagelos, disco suctorial ventral. Cisto: oval ou elipsoide, parede refringente, dois a quatro núcleos no interior.",
+            morfologia: "Trofozoíto: formato de pera, simetria bilateral, dois núcleos, quatro pares de flagelos, disco suctorial ventral. </br>Cisto: oval ou elipsoide, parede refringente, dois a quatro núcleos no interior.",
             identificacao: "Exame parasitológico de fezes (método direto ou Faust). Pesquisa de antígenos nas fezes por ELISA. Aspirado duodenal ou biópsia em casos refratários."
         },
         { 
@@ -109,7 +109,7 @@
             evolutivas: "Cisto / Trofozoíto", 
             local: "Intestino grosso (± fígado)", 
             ciclo: "Monoxênico",
-            morfologia: "Trofozoíto: pleomórfico, emite pseudópodes, núcleo com cromatina periférica regular e cariossoma central. Pode conter hemácias fagocitadas (patognomônico). Cisto: esférico, 1 a 4 núcleos, corpos cromatóides em bastonete.",
+            morfologia: "Trofozoíto: pleomórfico, emite pseudópodes, núcleo com cromatina periférica regular e cariossoma central. Pode conter hemácias fagocitadas (patognomônico). </br>Cisto: esférico, 1 a 4 núcleos, corpos cromatóides em bastonete.",
             identificacao: "Exame de fezes (método de Hoffmann, Faust). Distinção de E. dispar por pesquisa de antígeno (ELISA) ou PCR. Sorologia (ELISA) útil para amebíase extraintestinal. Colonoscopia com biópsia em suspeita de colite amebiana."
         }
     ];
